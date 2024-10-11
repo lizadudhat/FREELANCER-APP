@@ -1,0 +1,23 @@
+
+.container {
+  padding: 2rem;
+}
+
+.card-header {
+  font-weight: bold;
+  text-align: center;
+  
+}
+
+.card {
+  margin-bottom: 1rem;
+}
+
+.btn {
+  margin: 0.2rem;
+}
+header {
+  z-index: 10;
+  position: relative;
+  
+}
